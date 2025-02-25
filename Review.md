@@ -1,5 +1,5 @@
 # 🍕 Joe's Pizza Review
-- Rating: ⭐
-- Price: $$$$
-- Must Try: Nothing
-- Notes: Food is terrible and overpriced
+- Rating: ⭐⭐⭐⭐
+- Price: $10
+- Must Try: Classic Margherita
+- Notes: new branch feature-goodreview
